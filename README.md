@@ -1,2 +1,2 @@
 # text-bucket
-A quick to share ASCII text using web torrents
+A quick way to share ASCII text using web torrents
